@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JSFFlowViewLayout version="1.0">
+  <Drawing gridVisible="true" snapOn="true" />
+  <JSFFlowResource path="/MyJsp.jsp" location="247,144" dimension="100,36" />
+</JSFFlowViewLayout>
+

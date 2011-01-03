@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+
+.h1{
+	text-align: center;
+}
+
+.h3{
+	text-align: center;	
+}
+	
+.addressTable {
+	border: thin solid black;
+}
+.addressHeader{
+	text-align: center;
+	font-style: italic;
+	color: Snow;
+	background: Teal;
+}
+.oddColumn {
+	height: 25px;
+	text-align: center;
+	background: MediumTurquoise;
+}
+.evenColumn{
+	text-align: center;
+	background: PowderBlue;
+}
+
+
+	
